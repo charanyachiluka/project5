@@ -38,6 +38,7 @@ function showHome() {
        <div class='p-2'>
          <p>Home</p>
          <p>Album</p>
+         <p>profile</p>
          <p onclick='showLogin()'>Logout</p>
        </div>
        <div class='p-2' id='content'></div>
